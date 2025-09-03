@@ -1,0 +1,14 @@
+{
+  "name": "enforce-dashboard",
+  "version": "1.0.0",
+  "description": "EnForce Discord Bot Dashboard",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build needed for static site'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["discord", "bot", "dashboard", "moderation"],
+  "author": "EnForce Team",
+  "license": "MIT"
+}
